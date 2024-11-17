@@ -35,19 +35,19 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
  
   # Tools 
 
-     1. Jupyter Notebook & VS Code
+  1. Jupyter Notebook & VS Code
 
-     2. Python 3.x
+  2. Python 3.x
 
-     3. pandas
+  3. pandas
 
-     4. re
+  4. re
 
-     5. nltk
+  5. nltk
 
-     6. scikit-learn
+  6. scikit-learn
 
-     7. pickle
+  7. pickle
 
 
   # Remarks
