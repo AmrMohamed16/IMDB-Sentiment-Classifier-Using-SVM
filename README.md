@@ -23,31 +23,31 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
 
   # How It Works
 
-  * Text Preprocessing: Reviews are cleaned using regular expressions, tokenized, and lemmatized with a Porter Stemmer to remove noise and ensure consistency.
+     * Text Preprocessing: Reviews are cleaned using regular expressions, tokenized, and lemmatized with a Porter Stemmer to remove noise and ensure consistency.
     
-  * Vectorization: TF-IDF vectorization is used to convert the text into numerical features, representing the importance of words in each review.
+     * Vectorization: TF-IDF vectorization is used to convert the text into numerical features, representing the importance of words in each review.
     
-  * Model Training: The data is split into training and testing sets, and an SVM classifier is trained to predict the sentiment of the reviews.
+     * Model Training: The data is split into training and testing sets, and an SVM classifier is trained to predict the sentiment of the reviews.
     
-  * Evaluation: Model performance is evaluated using accuracy, precision, recall, and F1-score metrics.
+     * Evaluation: Model performance is evaluated using accuracy, precision, recall, and F1-score metrics.
 
     
  
   # Tools 
 
-     Jupyter Notebook & VS Code
+     1. Jupyter Notebook & VS Code
 
-     Python 3.x
+     2. Python 3.x
 
-     pandas
+     3. pandas
 
-     re
+     4. re
 
-     nltk
+     5. nltk
 
-    scikit-learn
+     6. scikit-learn
 
-    pickle
+     7. pickle
 
 
   # Remarks
@@ -61,6 +61,18 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
   1. Clone the repository:
      
      ```bash
+     git clone https://github.com/AmrMohamed16/IMDB-Sentiment-Classifier-Using-SVM
+
+  2. Navigate to the cloned repository:
+     
+     ```bash
+     cd IMDB-Sentiment-Classifier-Using-SVM
+
+  4. Run the Jupyter Notebook:
+     
+     ```bash
+     Sentiment Analysis.ipynb
+     
      
 
 
