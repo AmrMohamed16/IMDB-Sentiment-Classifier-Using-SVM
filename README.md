@@ -21,7 +21,7 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
      The data includes text-based reviews that are processed to extract useful features for the classification model.
 
 
-  # How It Works
+  # How_It_Works
 
      * Text Preprocessing: Reviews are cleaned using regular expressions, tokenized, and lemmatized with a Porter Stemmer to remove noise and ensure consistency.
     
