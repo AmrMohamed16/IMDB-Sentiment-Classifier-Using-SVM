@@ -10,7 +10,7 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
-* [Sample Run](#SampleRun)
+* [Sample Run](#Sample_Run)
 
   # Brief
   This project demonstrates how to classify IMDB movie reviews into positive or negative sentiment using Support Vector Machines (SVM). It applies Natural Language Processing (NLP)      techniques like text preprocessing and TF-IDF vectorization to convert text data into features suitable for machine learning models.
@@ -78,7 +78,7 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
      streamlit run app.py
 
 
-  # Sample Run
+  # Sample_Run
 
   * Positive Sentiment
     <img width="1018" alt="Screenshot 2024-11-21 at 8 42 14 AM" src="https://github.com/user-attachments/assets/ac1b6667-18ed-4fc6-91f6-d8b4f6133562">
