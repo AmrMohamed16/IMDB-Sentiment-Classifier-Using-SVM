@@ -72,6 +72,20 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
      
      ```bash
      Sentiment Analysis.ipynb
+
+  5. Run app window:
+     ```bash
+     streamlit run app.py
+
+
+  # Sample Run
+
+  * Positive Sentiment
+    <img width="1018" alt="Screenshot 2024-11-21 at 8 42 14 AM" src="https://github.com/user-attachments/assets/ac1b6667-18ed-4fc6-91f6-d8b4f6133562">
+    <hr>
+
+  * Negative Sentiment
+    <img width="1018" alt="Screenshot 2024-11-21 at 8 45 51 AM" src="https://github.com/user-attachments/assets/a82cfeeb-5ee9-4226-8600-b5042081b2b9">
      
      
 
