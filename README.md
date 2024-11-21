@@ -6,7 +6,7 @@ Created for the Natural Language Processing [CS411P] course at Mansoura Universi
 
 * [Brief](#Brief)
 * [DataSet](#DataSet)
-* [How It Works](#HowItWorks)
+* [How It Works](#How_It_Works)
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
